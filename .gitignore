@@ -2,3 +2,5 @@
 *.log
 build/
 Build/
+**/cmake-build-debug/
+.vscode/
