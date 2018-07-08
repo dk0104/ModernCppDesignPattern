@@ -4,3 +4,6 @@ build/
 Build/
 **/cmake-build-debug/
 **/.vscode/
+*.user
+
+\.idea/
