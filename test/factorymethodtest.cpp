@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "FactoryMethod.h"
+#include "Factory/FactoryMethod.h"
 
 #include <cmath>
 
