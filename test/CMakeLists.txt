@@ -2,7 +2,7 @@ add_executable(
     unit_tests
     example_add.cpp
     factorymethodtest.cpp
-    )
+        AbstractFactoryTest.cpp)
 
 target_link_libraries(
     unit_tests
